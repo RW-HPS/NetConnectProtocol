@@ -1,2 +1,3 @@
-rootProject.name = 'RW-HPS_Example-Plugin'
-
+rootProject.name = 'NetConnectProtocol'
+include ':1.14'
+include ':1.13'

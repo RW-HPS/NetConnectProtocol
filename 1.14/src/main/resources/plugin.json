@@ -1,8 +1,8 @@
 {
-  "name": "example",
+  "name": "NetConnectProtocol 1.14",
   "author": "Dr",
-  "main": "example.Main",
-  "description": "example",
-  "version": "1.0.0",
-  "supportedVersions": ">= 5.4.0"
+  "main": "cn.rwhps.protocol.Main151",
+  "description": "NetConnectProtocol 1.14 support",
+  "version": "1.14",
+  "supportedVersions": ">= 6.0.0-DEV2"
 }
